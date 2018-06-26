@@ -1,0 +1,19 @@
+.film{
+  display: flex;
+  width: 200px;
+  background-color: grey;
+  justify-content: space-around;
+  border: solid 1px;
+  margin: 2px;
+}
+
+.film-box{
+  border: solid 1px;
+  margin: 2px;
+  width: 300px;
+}
+
+.film-list{
+  border: solid 1px;
+  margin: 2px;
+}
